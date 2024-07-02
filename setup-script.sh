@@ -12,9 +12,9 @@ check_os() {
 main() {
     echo "\n"
     echo "\n"
-    echo "\n"
     #Check if Git is installed
     git -v
+    echo "\n"
 
     #Checks if host is macOS as this script works only for macOS right now.
     check_os
