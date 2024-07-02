@@ -1,4 +1,4 @@
-# GitHub SSH CLI Setup Client
+# GitHub SSH Setup CLI Client
 
 ##### This script automates the setup of SSH keys for GitHub on macOS. It will soon be available for other operating systems as well.
 
