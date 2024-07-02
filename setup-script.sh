@@ -11,7 +11,7 @@ check_os() {
 #Main script
 main() {
     #Check if Git is installed
-    git -ver
+    git -v
 
     #Checks if host is macOS as this script works only for macOS right now.
     check_os
