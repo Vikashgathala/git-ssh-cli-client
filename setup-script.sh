@@ -10,6 +10,9 @@ check_os() {
 
 #Main script
 main() {
+    echo "\n"
+    echo "\n"
+    echo "\n"
     #Check if Git is installed
     git -v
 
