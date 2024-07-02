@@ -21,7 +21,9 @@ main() {
 
     #Just some info ;)
     echo "Follow the easy instructions and get your SSH set up done quickly."
+    echo "\n"
     echo "If you are familiar with Windows and PowerShell then you can help porting this script to Windows."
+    echo "\n"
     echo "Linux script under development."
 
     #Setup begins
